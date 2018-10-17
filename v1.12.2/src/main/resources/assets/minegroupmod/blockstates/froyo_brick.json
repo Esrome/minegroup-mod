@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "variant=black": { "model": "minegroupmod:froyo_brick_black" },
+        "variant=blue": { "model": "minegroupmod:froyo_brick_blue" },
+        "variant=brown": { "model": "minegroupmod:froyo_brick_brown" },
+        "variant=cyan": {"model": "minegroupmod:froyo_brick_cyan" },
+        "variant=gray": {"model": "minegroupmod:froyo_brick_gray" },
+        "variant=green": {"model": "minegroupmod:froyo_brick_green" },
+        "variant=light_blue": {"model": "minegroupmod:froyo_brick_light_blue" },
+        "variant=lime": {"model": "minegroupmod:froyo_brick_lime" },
+        "variant=magenta": {"model": "minegroupmod:froyo_brick_magenta" },
+        "variant=orange": {"model": "minegroupmod:froyo_brick_orange" },
+        "variant=pink": {"model": "minegroupmod:froyo_brick_pink" },
+        "variant=purple": {"model": "minegroupmod:froyo_brick_purple" },
+        "variant=red": {"model": "minegroupmod:froyo_brick_red" },
+        "variant=white": {"model": "minegroupmod:froyo_brick_white" },
+        "variant=yellow": {"model": "minegroupmod:froyo_brick_yellow" },
+        "variant=light_gray": {"model": "minegroupmod:froyo_brick_light_gray" }
+    }
+}

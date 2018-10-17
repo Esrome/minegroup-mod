@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "check_decay=true,decayable=true,variant=wyrm": { "model": "minegroupmod:leaves_wyrm" },
+        "check_decay=true,decayable=false,variant=wyrm": { "model": "minegroupmod:leaves_wyrm" },
+        "check_decay=false,decayable=true,variant=wyrm": { "model": "minegroupmod:leaves_wyrm" },
+        "check_decay=false,decayable=false,variant=wyrm": { "model": "minegroupmod:leaves_wyrm" },
+        "check_decay=true,decayable=true,variant=catwolfian": { "model": "minegroupmod:leaves_catwolfian" },
+        "check_decay=true,decayable=false,variant=catwolfian": { "model": "minegroupmod:leaves_catwolfian" },
+        "check_decay=false,decayable=true,variant=catwolfian": { "model": "minegroupmod:leaves_catwolfian" },
+        "check_decay=false,decayable=false,variant=catwolfian": { "model": "minegroupmod:leaves_catwolfian" },
+        "check_decay=true,decayable=true,variant=destined": { "model": "minegroupmod:leaves_destined" },
+        "check_decay=true,decayable=false,variant=destined": { "model": "minegroupmod:leaves_destined" },
+        "check_decay=false,decayable=true,variant=destined": { "model": "minegroupmod:leaves_destined" },
+        "check_decay=false,decayable=false,variant=destined": { "model": "minegroupmod:leaves_destined" },
+        "check_decay=true,decayable=true,variant=froyo": { "model": "minegroupmod:leaves_froyo" },
+        "check_decay=true,decayable=false,variant=froyo": { "model": "minegroupmod:leaves_froyo" },
+        "check_decay=false,decayable=true,variant=froyo": { "model": "minegroupmod:leaves_froyo" },
+        "check_decay=false,decayable=false,variant=froyo": { "model": "minegroupmod:leaves_froyo" }
+    }
+}

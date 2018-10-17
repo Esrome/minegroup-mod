@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "C C",
+        "C C"     
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minegroupmod:catwolfian_essence"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minegroupmod:catwolfian_boots",
+        "count": 1
+    }
+}

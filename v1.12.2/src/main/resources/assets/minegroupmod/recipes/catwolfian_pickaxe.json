@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CCC",
+        " S ",
+        " S "      
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minegroupmod:catwolfian_essence"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minegroupmod:catwolfian_pickaxe",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "minegroupmod:plank_wyrm" },
+        "half=bottom": { "model": "minegroupmod:plank_wyrm" }
+    }
+}

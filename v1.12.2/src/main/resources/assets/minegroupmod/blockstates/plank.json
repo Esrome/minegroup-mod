@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "variant=wyrm": { "model": "minegroupmod:plank_wyrm" },
+        "variant=catwolfian": { "model": "minegroupmod:plank_catwolfian" },
+        "variant=destined": { "model": "minegroupmod:plank_destined" },
+        "variant=froyo": { "model": "minegroupmod:plank_froyo" }
+    }
+}

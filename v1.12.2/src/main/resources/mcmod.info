@@ -1,0 +1,15 @@
+[
+{
+  "modid": "minegroupmod",
+  "name": "Minegroup Mod",
+  "description": "The Minegroup Mod adds all kinds of items related to the members of the Minegroup.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Catwolf57"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

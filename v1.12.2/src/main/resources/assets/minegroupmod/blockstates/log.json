@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "axis=y,variant=wyrm": { "model": "minegroupmod:log_wyrm" },
+        "axis=z,variant=wyrm": { "model": "minegroupmod:log_wyrm", "x": 90 },
+        "axis=x,variant=wyrm": { "model": "minegroupmod:log_wyrm", "x": 90, "y": 90 },
+        "axis=none,variant=wyrm": { "model": "minegroupmod:log_wyrm" },
+        "axis=y,variant=catwolfian": { "model": "minegroupmod:log_catwolfian" },
+        "axis=z,variant=catwolfian": { "model": "minegroupmod:log_catwolfian", "x": 90 },
+        "axis=x,variant=catwolfian": { "model": "minegroupmod:log_catwolfian", "x": 90, "y": 90 },
+        "axis=none,variant=catwolfian": { "model": "minegroupmod:log_catwolfian" },
+        "axis=y,variant=destined": { "model": "minegroupmod:log_destined" },
+        "axis=z,variant=destined": { "model": "minegroupmod:log_destined", "x": 90 },
+        "axis=x,variant=destined": { "model": "minegroupmod:log_destined", "x": 90, "y": 90 },
+        "axis=none,variant=destined": { "model": "minegroupmod:log_destined" },
+        "axis=y,variant=froyo": { "model": "minegroupmod:log_froyo" },
+        "axis=z,variant=froyo": { "model": "minegroupmod:log_froyo", "x": 90 },
+        "axis=x,variant=froyo": { "model": "minegroupmod:log_froyo", "x": 90, "y": 90 },
+        "axis=none,variant=froyo": { "model": "minegroupmod:log_froyo" }
+    }
+}

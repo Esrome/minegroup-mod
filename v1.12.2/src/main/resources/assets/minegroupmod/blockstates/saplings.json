@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "stage=0,variant=wyrm": { "model": "minegroupmod:sapling_wyrm" },
+        "stage=1,variant=wyrm": { "model": "minegroupmod:sapling_wyrm"},
+        "stage=0,variant=catwolfian": { "model": "minegroupmod:sapling_catwolfian" },
+        "stage=1,variant=catwolfian": { "model": "minegroupmod:sapling_catwolfian"},
+        "stage=0,variant=destined": { "model": "minegroupmod:sapling_destined" },
+        "stage=1,variant=destined": { "model": "minegroupmod:sapling_destined"},
+        "stage=0,variant=froyo": { "model": "minegroupmod:sapling_froyo" },
+        "stage=1,variant=froyo": { "model": "minegroupmod:sapling_froyo"}
+    }
+}

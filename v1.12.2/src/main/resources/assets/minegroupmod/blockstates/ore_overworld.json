@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "variant=catwolfian": { "model": "minegroupmod:ore_overworld_catwolfian" },
+        "variant=destiny": { "model": "minegroupmod:ore_overworld_destiny" },
+        "variant=minegroup": { "model": "minegroupmod:ore_overworld_minegroup" },
+        "variant=wyrm": {"model": "minegroupmod:ore_overworld_wyrm" }
+    }
+}

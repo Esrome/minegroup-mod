@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "W  ",
+        "WW ",
+        "WWW"      
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minegroupmod:plank",
+            "data": 0
+        }
+    },
+    
+    "result":
+    {
+        "item": "minegroupmod:stairs_wyrm",
+        "count": 4
+    }
+}

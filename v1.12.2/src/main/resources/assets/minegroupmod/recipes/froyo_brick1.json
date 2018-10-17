@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "FF",
+        "FF"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minegroupmod:froyo",
+            "data": 1
+        }
+    },
+    
+    "result":
+    {
+        "item": "minegroupmod:froyo_brick",
+        "data": 1
+    }
+}

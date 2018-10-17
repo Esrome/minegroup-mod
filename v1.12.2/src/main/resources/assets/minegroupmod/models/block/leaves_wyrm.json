@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "minegroupmod:blocks/leaves_wyrm"
+    }
+}

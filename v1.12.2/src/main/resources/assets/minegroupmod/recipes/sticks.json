@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "W",
+        "W"  
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minegroupmod:plank",
+            "data": 0
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:stick",
+        "count": 4
+    }
+}

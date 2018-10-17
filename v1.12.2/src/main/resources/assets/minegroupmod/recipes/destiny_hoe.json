@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DD",
+        " S",
+        " S"      
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minegroupmod:destiny_ingot"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minegroupmod:destiny_hoe",
+        "count": 1
+    }
+}
